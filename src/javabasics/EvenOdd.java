@@ -12,7 +12,7 @@ public class EvenOdd {
 		
 		int a, b;
 		
-		System.out.println("Please give first number");
+		System.out.println("Please enter number");
 		a = s.nextInt();
 		
 		b = a%2;
